@@ -1,0 +1,6 @@
+{
+	"recommendations": [
+        "testdouble.vscode-standard-ruby",
+		"MateuszDrewniak.ruby-test-runner"
+	]
+}
