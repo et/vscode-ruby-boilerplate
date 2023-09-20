@@ -1,6 +1,6 @@
 # Ruby VSCode Boilerplate
 
-This is a very light boilerplate repo for vscode + ruby.
+Setting up VSCode + Ruby can be a bit painful. This is a boilerplate to get going quickly.
 
 - Autoformatting/linting with [standard](https://github.com/standardrb/vscode-standard-ruby)
 - Run tests [ruby-test-runner](https://marketplace.visualstudio.com/items?itemName=MateuszDrewniak.ruby-test-runner)
